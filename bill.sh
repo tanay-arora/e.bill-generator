@@ -88,6 +88,7 @@ echo "your name: ${name[out]}";
 echo "your acc no: ${acc[out]}";
 echo "units consumed by you: ${units[out]}";
 echo "account type is not valid input by you ${acctype[out]}"
+echo " "
 fi
 done
 else
